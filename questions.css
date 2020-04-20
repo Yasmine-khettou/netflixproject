@@ -1,0 +1,86 @@
+.card .questions h1{
+	text-align: center;
+	margin: 40px; 
+	color:white;
+	white-space: pre;
+}
+
+.questions{
+	background-color: ;
+
+	
+}
+
+.card .questions {			/*la carte contenant les questions*/
+	height:650px;
+	width:100%;
+	background-color: black;
+	z-index: 5;
+	margin-bottom: 15px;
+}
+
+#longcard{
+	height:870px;
+	width: 100%;
+	background-color: black;
+}
+.questions a{
+	text-decoration: none;
+}
+.questions a:hover {
+	color:white;
+}
+
+.btn-grey{			/*boutton gris autour des lien*/
+	display: block;
+	color:white;
+	white-space:pre;
+	background-color: #303030;
+	width:830px;
+	height:80px;
+	text-align: justify;
+	margin: auto;
+	padding:16px;
+
+	font-family:'FuraCode' Nerd Font;
+	font-size:25px;
+	font-style:normal;
+	font-weight:400;
+
+	-webkit-appearance: button;
+	text-transform: none;
+	text-decoration: none;
+	border:none;
+
+}
+
+
+.grey{ 			/*liste de liens*/
+	list-style-type: none;
+	margin-top:5px;
+	background-color: ;
+	width:1342px;
+	height:500px;
+
+}
+
+.sous{			/*liens cachés*/
+	display:none;
+}
+
+
+.close {
+	display:none;
+}
+
+
+.email2 h3{
+	font-size:20px;
+	width:600px;
+	margin-top:20px;
+
+	position: absolute;
+	bottom:100px;
+	right: 390px;
+	bottom:112px;
+}

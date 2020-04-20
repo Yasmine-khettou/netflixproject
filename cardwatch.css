@@ -1,0 +1,59 @@
+/*Design de la carte Watch*/
+
+.card-watch{
+	height:auto;
+	position: relative;
+}
+
+.text-watch {		/*texte de la carte watch*/
+	width:520px;
+
+	color:white;
+	text-align: justify ;
+	font-size: 45px;
+	white-space: pre;
+	
+	position:absolute;
+	top:-3px;
+	right:10px;
+	left:100px;
+
+	margin-bottom:30px;
+	margin-right:35px;
+}
+
+.text-watch h2{
+	position:absolute;
+	top:220px;
+	left:17px;
+}
+
+
+
+
+/*
+
+.animwatch img{
+	z-index:1;
+	width:700px;
+	height: 500px;
+	margin-right:100px;
+	position: absolute;
+	right:200px;
+	border:10px solid red;
+}
+
+
+.animwatch video{
+	z-index:0;
+	height:220px;
+	width:380px;
+
+}
+
+.animwatch{
+	height: auto;
+	width: auto;
+}
+
+*/

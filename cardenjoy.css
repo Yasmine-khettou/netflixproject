@@ -1,0 +1,12 @@
+/*DESIGN de la carte Enjoy*/
+
+
+.text-enjoy{
+	width: 500px;
+	position:absolute;
+	top:150px;
+	text-align:justify;
+	margin-left:125px;
+}
+
+

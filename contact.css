@@ -1,0 +1,67 @@
+.contact{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color:#676767;
+	width:100%;
+	height:435px;
+
+background-color: black;
+position:relative;
+text-align: justify;
+
+padding:30px;
+
+}
+
+.contact ul{
+	list-style-type: none;
+}
+
+
+#q1{			/*Questions? Contact us.*/
+color:#676767;
+position: absolute;
+top:-50px;
+left:40px;
+
+font-size:19px;
+}
+
+
+.carré{			/*carré contenant les liens*/
+	display: flex;
+	width:830px;
+	height:143px;
+	justify-content: space-between;
+
+	position:absolute;
+	left:180px;
+
+	line-height: 35px
+
+}
+
+.carré a{
+	color:#676767;
+}
+
+
+.language{    			/*boutton language*/
+	width:130px;
+	height:40px;
+	
+	position: absolute;
+	top:346px;
+	left:210px;
+
+	color:#676767;
+	background-color: black;
+}
+
+
+.netflix{
+	position: absolute;
+	top:395px;
+	left:220px;
+}

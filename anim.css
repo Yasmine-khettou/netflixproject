@@ -1,0 +1,37 @@
+/*DESIGN DES ANIMATIONS ET LEURS IMAGE JPG*/
+
+
+
+.anim {      /*les 2 vidéos + leurs images*/
+	position: absolute;
+	right:350px;
+	left:600px;
+}
+
+.anim video{ /*vidéo télé+mac*/
+	z-index:0;
+	width:380px;
+	position: absolute;
+	left:160px;
+	top:70px;
+}
+
+.anim img{  /*image télé+mac*/
+	width:600px;
+	height:400px;
+
+	position: absolute;
+	 left:60px;
+	 right:100px;
+
+	z-index:1;
+}
+
+
+#macimage{  /*image du mac*/
+	width:600px;
+	height:450px;
+}
+
+
+

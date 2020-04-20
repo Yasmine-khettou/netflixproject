@@ -1,0 +1,87 @@
+/*Design des email forms*/
+
+
+
+.email1{			/*div de tout le bloc email*/
+	position: absolute;
+	top:150px;
+	left:-110px;
+	width:400;
+	height:57;
+
+}
+
+.simpleForm {				/*enlever le point*/
+	list-style-type: none;
+}
+
+#id_email1{					/*zone de texte pour l'email*/
+	width: 446px;
+	height: 56px;
+	background-color: ;
+	position: absolute;
+	left:42px;
+	top:2px;
+	border:none;
+	text-decoration: none;
+}
+
+.input_id1{					/*bande blanche autours de la zone de texte*/
+
+	background-color: white;
+	width: 450px;
+	height: 60px;
+	color:black;
+
+	border: 2px solid rgba(0,0,0,0.2);
+}
+
+.label1{						/*"email adress" */
+	color:#8c8c8c;
+	font-family: 'Arial';
+	
+	position: absolute;
+	left:40px;	
+}
+
+
+/***********************************  EMAIL FORM 2*****************************************************/
+
+
+.email2{			/*div de tout le bloc email*/
+	width:400;
+	height:57;
+}
+
+
+#id_email2{					/*zone de texte pour l'email*/
+	width: 446px;
+	height: 56px;
+	background-color: ;
+	border:none;
+	text-decoration: none;
+}
+
+.input_id2{					/*bande blanche autours de la zone de texte*/
+
+	background-color: white;
+	width: 450px;
+	height: 60px;
+	color:black;
+	border: 2px solid rgba(0,0,0,0.2);
+
+	position: absolute;
+	bottom:150px;
+	left:310px;
+}
+
+.label2{						/*"email adress" */
+	color:#8c8c8c;
+	font-family: 'Arial';
+	position: absolute;
+	bottom: 15px;
+	
+}
+
+
+

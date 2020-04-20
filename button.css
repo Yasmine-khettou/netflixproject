@@ -1,0 +1,81 @@
+ /*boutton SIGN IN*/
+
+.btn-red{      
+	font-size:1rem;
+	line-height: normal;
+	color:white;
+
+	width:90;
+	height:30;
+
+	background-color:#F40612;
+
+	border-radius:3px;
+
+	margin-top: 30px;
+	padding: 7px 17px;
+
+	margin-right:55px;
+	
+	float:right;
+
+	font-weight:normal;
+	font-weight:400px;
+}
+.banner button{
+	-webkit-appearance: button;
+	text-transform: none;
+	text-decoration: none;
+	border:none;
+}
+
+
+.btn-red:hover{
+	text-decoration: none;
+	text-transform: none;
+}
+
+/*BOUTTON TRY IT BANNER*/
+
+#tryit1{							/*boutton TRY-IT*/
+	z-index: 0;
+
+	position: absolute;
+	top:-30px;
+	right:-287px;
+
+	height:60px;
+	width: 236px
+
+}
+
+.hero-cta-btn-txt {		/*texte du bouton*/
+	font-size: 30px;
+	font-weight: normal; 
+	text-align: center;
+}
+
+
+#tryit1 {
+	text-decoration: none;
+	color:white;
+	background-color: #F40612;
+}
+
+/*boutton TRY IT question card*/
+
+
+#tryit2{
+	position: absolute;
+	bottom: 158px;
+	right:290px;
+
+	height:60px;
+	width: 236px;
+}
+
+/*BOUTTON LANGUAGE*/
+
+.language {
+	border:1px solid #676767;
+}

@@ -1,0 +1,77 @@
+.text-download {
+	color:white;
+	text-align: justify ;
+	width:500px;
+	position:absolute;
+	top:1px;
+	right:10px;
+	left:640px;
+	font-size: 45px;
+	margin-right:40px;
+	white-space: pre;
+}
+
+.text-download h2{
+	position:absolute;
+	top:290px;
+}
+
+#girlimage {
+	position:absolute;
+	top:-5px;
+	left:20px;
+	height:400px;
+}
+.strangeflexbox {
+	z-index:1;
+	display:flex;
+	color:white;
+	background-color:black;
+	border-radius:5%;
+	border:3px solid #181818;
+	width:350PX;
+	height:80px;
+	position: absolute;
+	top:300px;
+	left:120px;
+	white-space:pre;
+	display:inline-grid;
+	text-align:center;
+}
+
+#strangerimage {
+	width:50px;
+	height:60px;
+	position: absolute;
+	left:10px;
+	top:5Px;
+}
+
+.strangeflexbox p{
+	margin-top:15px;
+	margin-bottom:-100px;
+	font-weight:bold;
+	position:absolute;
+	left:90px;
+}
+
+#downloading {
+	color: #0071EB;
+	white-space: normal;
+	font-weight: lighter;
+	margin-bottom:50px;
+	margin-top: 4px
+	font-size:14,4px;
+	margin-right:0px;
+	position: absolute;
+	top:20px;
+	left:5px;
+}
+
+#strangeranim{
+	position:absolute;
+	left:285px;
+	width:50px;
+	height:40px;
+	top:20px;
+}
